@@ -52,6 +52,10 @@ The function app requires **4 containers** in the same storage account (modify t
 1. Install Azure Functions Core Tools: <https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local>  
 2. Install Azure CLI: <https://docs.microsoft.com/en-us/cli/azure/install-azure-cli>  
 
+
+These functions assume you have already created a custom **Content Understanding** endpoint (a custom **classifier** and one or more custom **analyzers**)  
+If you have not, follow the instructions here to do so <https://github.com/dhangerkapil/agentic-ai-lab/tree/main/content-understanding>
+
 ## Local Development Setup
 
 ### 1. Create and activate virtual environment
