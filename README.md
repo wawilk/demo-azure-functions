@@ -40,12 +40,12 @@ Output: {success: True, message}
 
 ## Azure Portal View
 
-![Azure Portal Function App](/images/functions.png =25%x)
+![Azure Portal Function App](./images/functions.png =25%x)
 
 The function app requires **4 containers** in the same storage account (modify the functions to vary these requirements)
 (Use a different storage account than you the one created with you Function App)
 
-![Azure Portal Containers](/images/containers.png =35%x)
+![Azure Portal Containers](./images/containers.png =35%x)
 
 ## Prerequisites
 
