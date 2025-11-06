@@ -1,0 +1,8 @@
+.git*
+.vscode
+__pycache__
+.venv
+.env
+local.settings.json
+test
+.azure
